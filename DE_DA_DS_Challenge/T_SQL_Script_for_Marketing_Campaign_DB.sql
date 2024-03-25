@@ -1,5 +1,5 @@
-CREATE DATABASE Marketing_DB;
-USE Marketing_DB;
+CREATE DATABASE Marketing_Campaign_DB;
+USE Marketing_Campaign_DB;
 -- Create Client table
 CREATE TABLE Client (
     id INT PRIMARY KEY,
