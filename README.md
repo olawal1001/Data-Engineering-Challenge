@@ -23,6 +23,7 @@ Data Cleaning: Used Python and pandas to clean and reformat the marketing data.
 Data Splitting: Split the cleaned data into three tables based on client information, campaign details, and economic factors.
 
 RDBMS Schema Design: Designed tables in SSMS for Clients, Campaigns, and Economics, including appropriate column types and relationships.
+
 SQL Scripting: Created SQL scripts to create tables and bulk insert data from CSV files into the database.
 
 
